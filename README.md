@@ -19,9 +19,10 @@ NetSnoop is a network packet analyzer built using Python and the Scapy library. 
 1. Clone the repository:
    
    git clone https://github.com/yourusername/NetSnoop.git
+   
    cd NetSnoop
    
-2. Create a virtual environment:
+3. Create a virtual environment:
    
 python3 -m venv venv
 source venv/bin/activate
